@@ -36,11 +36,11 @@ Panel fleet across Singapore and Colombo on Xray/VLESS, with per-customer routin
 
 <div align="center">
 
-<a href="https://github.com/NightRiderr77/pxn-shield-android"><img width="49%" alt="pxn-shield-android" src="https://github-readme-stats.vercel.app/api/pin/?username=NightRiderr77&repo=pxn-shield-android&hide_border=true&bg_color=060806&title_color=8FD14F&text_color=9CA893&icon_color=A32424"></a>
-<a href="https://github.com/NightRiderr77/pxn-shield-releases"><img width="49%" alt="pxn-shield-releases" src="https://github-readme-stats.vercel.app/api/pin/?username=NightRiderr77&repo=pxn-shield-releases&hide_border=true&bg_color=060806&title_color=8FD14F&text_color=9CA893&icon_color=A32424"></a>
+<a href="https://github.com/NightRiderr77/pxn-shield-android"><img width="48%" alt="pxn-shield-android — Android VLESS client" src="https://raw.githubusercontent.com/NightRiderr77/NightRiderr77/main/assets/cards/pxn-shield-android.svg"></a>
+<a href="https://github.com/NightRiderr77/pxn-shield-releases"><img width="48%" alt="pxn-shield-releases — Windows installers and auto-update manifest" src="https://raw.githubusercontent.com/NightRiderr77/NightRiderr77/main/assets/cards/pxn-shield-releases.svg"></a>
 
-<a href="https://github.com/NightRiderr77/PXN-SUB"><img width="49%" alt="PXN-SUB" src="https://github-readme-stats.vercel.app/api/pin/?username=NightRiderr77&repo=PXN-SUB&hide_border=true&bg_color=060806&title_color=8FD14F&text_color=9CA893&icon_color=A32424"></a>
-<a href="https://github.com/NightRiderr77/whatsapp-welcomer-and-contact-saver-bot"><img width="49%" alt="whatsapp-welcomer-and-contact-saver-bot" src="https://github-readme-stats.vercel.app/api/pin/?username=NightRiderr77&repo=whatsapp-welcomer-and-contact-saver-bot&hide_border=true&bg_color=060806&title_color=8FD14F&text_color=9CA893&icon_color=A32424"></a>
+<a href="https://github.com/NightRiderr77/PXN-SUB"><img width="48%" alt="PXN-SUB — custom subscription page for 3x-UI" src="https://raw.githubusercontent.com/NightRiderr77/NightRiderr77/main/assets/cards/PXN-SUB.svg"></a>
+<a href="https://github.com/NightRiderr77/whatsapp-welcomer-and-contact-saver-bot"><img width="48%" alt="whatsapp-welcomer-and-contact-saver-bot — WhatsApp customer automation" src="https://raw.githubusercontent.com/NightRiderr77/NightRiderr77/main/assets/cards/whatsapp-welcomer-and-contact-saver-bot.svg"></a>
 
 </div>
 
@@ -63,14 +63,6 @@ The client apps and panels are closed source — what ships publicly here is the
 <img alt="Linux" src="https://img.shields.io/badge/Linux-0B0F0B?style=flat-square&logo=linux&logoColor=8FD14F">
 <img alt="Docker" src="https://img.shields.io/badge/Docker-0B0F0B?style=flat-square&logo=docker&logoColor=8FD14F">
 <img alt="Xray" src="https://img.shields.io/badge/Xray_%C2%B7_VLESS-0B0F0B?style=flat-square&logo=wireguard&logoColor=8FD14F">
-
-</div>
-
-### Activity
-
-<div align="center">
-
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NightRiderr77&show_icons=true&include_all_commits=true&hide_border=true&bg_color=060806&title_color=8FD14F&text_color=9CA893&icon_color=A32424&ring_color=A32424">
 
 </div>
 
