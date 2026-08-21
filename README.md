@@ -36,11 +36,11 @@ Panel fleet across Singapore and Colombo on Xray/VLESS, with per-customer routin
 
 <div align="center">
 
-<a href="https://github.com/NightRiderr77/pxn-shield-android"><img width="48%" alt="pxn-shield-android — Android VLESS client" src="https://raw.githubusercontent.com/NightRiderr77/NightRiderr77/main/assets/cards/pxn-shield-android.svg"></a>
-<a href="https://github.com/NightRiderr77/pxn-shield-releases"><img width="48%" alt="pxn-shield-releases — Windows installers and auto-update manifest" src="https://raw.githubusercontent.com/NightRiderr77/NightRiderr77/main/assets/cards/pxn-shield-releases.svg"></a>
+<a href="https://github.com/NightRiderr77/pxn-shield-android"><img width="48%" alt="pxn-shield-android — Android VLESS client" src="https://raw.githubusercontent.com/NightRiderr77/NightRiderr77/main/assets/cards/pxn-shield-android.svg?v=2"></a>
+<a href="https://github.com/NightRiderr77/pxn-shield-releases"><img width="48%" alt="pxn-shield-releases — Windows installers and auto-update manifest" src="https://raw.githubusercontent.com/NightRiderr77/NightRiderr77/main/assets/cards/pxn-shield-releases.svg?v=2"></a>
 
-<a href="https://github.com/NightRiderr77/PXN-SUB"><img width="48%" alt="PXN-SUB — custom subscription page for 3x-UI" src="https://raw.githubusercontent.com/NightRiderr77/NightRiderr77/main/assets/cards/PXN-SUB.svg"></a>
-<a href="https://github.com/NightRiderr77/whatsapp-welcomer-and-contact-saver-bot"><img width="48%" alt="whatsapp-welcomer-and-contact-saver-bot — WhatsApp customer automation" src="https://raw.githubusercontent.com/NightRiderr77/NightRiderr77/main/assets/cards/whatsapp-welcomer-and-contact-saver-bot.svg"></a>
+<a href="https://github.com/NightRiderr77/PXN-SUB"><img width="48%" alt="PXN-SUB — custom subscription page for 3x-UI" src="https://raw.githubusercontent.com/NightRiderr77/NightRiderr77/main/assets/cards/PXN-SUB.svg?v=2"></a>
+<a href="https://github.com/NightRiderr77/whatsapp-welcomer-and-contact-saver-bot"><img width="48%" alt="whatsapp-welcomer-and-contact-saver-bot — WhatsApp customer automation" src="https://raw.githubusercontent.com/NightRiderr77/NightRiderr77/main/assets/cards/whatsapp-welcomer-and-contact-saver-bot.svg?v=2"></a>
 
 </div>
 
