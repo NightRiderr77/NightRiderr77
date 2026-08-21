@@ -1,5 +1,7 @@
+# local build scratch, never part of the profile
+.chrome-tmp/
 preview.html
-preview.png
-live.png
 gen_cards.py
+*.png
+served.*
 repos.json
