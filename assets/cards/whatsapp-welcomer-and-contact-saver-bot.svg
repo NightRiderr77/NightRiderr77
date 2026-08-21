@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 158" width="460" height="158"
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 182" width="460" height="182"
      role="img" aria-label="whatsapp-welcomer-and-contact-saver-bot — Saves every new WhatsApp customer, welcomes them once, chases anyone unanswered and sends the price list on one typed phrase.">
   <title>whatsapp-welcomer-and-contact-saver-bot</title>
   <defs><style>text { font-family: ui-monospace, SFMono-Regular, "SF Mono", "DejaVu Sans Mono", Menlo, Consolas, monospace; }</style></defs>
-  <rect x=".75" y=".75" width="458.5" height="156.5" rx="10" fill="#0B0F0B" stroke="#22301B"/>
-  <rect x=".75" y=".75" width="4" height="156.5" rx="2" fill="#F1E05A" opacity=".55"/>
+  <rect x=".75" y=".75" width="458.5" height="180.5" rx="10" fill="#0B0F0B" stroke="#22301B"/>
+  <rect x=".75" y=".75" width="4" height="180.5" rx="2" fill="#F1E05A" opacity=".55"/>
   <g transform="translate(22 38)" fill="none" stroke="#4F6140" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
     <path d="M2 2.6A2.6 2.6 0 0 1 4.6 0H14v14H4.6A2.6 2.6 0 0 0 2 16.6Z"/>
     <path d="M2 13h12"/>
   </g>
   <text x="48" y="51" fill="#8FD14F" font-size="15" font-weight="700">whatsapp-welcomer-and-contact-sav…</text>
   <text x="22" y="86" fill="#9CA893" font-size="12.5">Saves every new WhatsApp customer, welcomes them</text><text x="22" y="106" fill="#9CA893" font-size="12.5">once, chases anyone unanswered and sends the</text><text x="22" y="126" fill="#9CA893" font-size="12.5">price list on one typed phrase.</text>
-  <circle cx="27" cy="134" r="5" fill="#F1E05A"/>
-  <text x="40" y="138" fill="#4F6140" font-size="11.5" letter-spacing="2.2">JAVASCRIPT</text>
+  <circle cx="27" cy="156" r="5" fill="#F1E05A"/>
+  <text x="40" y="160" fill="#4F6140" font-size="11.5" letter-spacing="2.2">JAVASCRIPT</text>
 </svg>
